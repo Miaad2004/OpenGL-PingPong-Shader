@@ -9,6 +9,12 @@ features:
 - Score and remaining lives display
 - Difficulty controls
 
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/sample.gif" alt="sample gif">
+</p>
+
 ## Controls
 
 - **Arrow Up/Down**: Move the paddle up or down
@@ -41,5 +47,3 @@ features:
 - `vertex_shader.glsl` - Vertex shader source
 - `fragment_shader.glsl` - Fragment shader source
 - `libs/` - Prebuilt libraries and headers for GLEW and FreeGLUT
-
-## Screenshots
